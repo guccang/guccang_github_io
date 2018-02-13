@@ -112,5 +112,3 @@ git 有一个特点就是，每个版本只保留,上个版本变动的文件，
     git tag -d v0.2 删除标签
     git push origin --tag 将所有标签同步到远端服务器。
     git push origin:refs/tags/v0.2 删除远端标签
-
-
