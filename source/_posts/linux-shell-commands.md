@@ -3,6 +3,7 @@ date: 2015-09-08 17:29:51
 tags:
 - LINUX
 - cmd-line
+- all
 ---
 
 > #实用性linux命令

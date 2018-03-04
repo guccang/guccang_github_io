@@ -1,7 +1,9 @@
 ---
 title: 美女 
 date: 2018-02-13 13:28:27
-tags: sexy
+tags: 
+- all
+- sexy
 ---
 ***
 <video controls="controls" src="\imgs\video\normal\1.MP4"></video>  

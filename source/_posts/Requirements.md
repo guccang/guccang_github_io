@@ -2,6 +2,7 @@ title: Requirements
 date: 2015-09-10 16:15:57
 tags:
 - Software Requirements
+- all
 ---
 > ##软件需求
 ####需求是....指明必须实现什么的规格说明书,他描述了系统的行为,特性或属性,是在开发过程中对系统的约束

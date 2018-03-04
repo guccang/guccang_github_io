@@ -2,6 +2,7 @@ title: Protobuf inheritance
 date: 2015-08-04 19:21:21
 tags:
 - protobuf
+- all
 ---
 
 ***

@@ -2,6 +2,7 @@ title: django
 date: 2015-08-12 14:35:25
 tags:
 - django
+- all
 ---
 
 ***

@@ -2,6 +2,7 @@ title: Software Construction
 date: 2015-09-06 16:26:14
 tags:
 - CODE COMPLETE
+- all
 ---
 > #Software Construction
  

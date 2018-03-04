@@ -2,6 +2,7 @@ title: 'win8.1 update to win10,vs2013 bug'
 date: 2015-07-30 10:51:47
 tags:
 - visual studio
+- all
 ---
 
 ***

@@ -2,6 +2,7 @@ title: git log
 date: 2015-07-31 00:12:25
 tags:
 - git
+- all
 -------
 
 ***

@@ -3,6 +3,7 @@ date: 2015-09-06 14:25:59
 tags:
 - python
 - django
+- all
 ------
 ## 区别
 

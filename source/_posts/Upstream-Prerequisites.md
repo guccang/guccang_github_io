@@ -2,6 +2,7 @@ title: Upstream Prerequisites
 date: 2015-09-10 13:38:41
 tags:
 - CODE COMPLETE
+- all
 ---
 >> ##前期准备
 
