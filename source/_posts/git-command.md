@@ -24,7 +24,7 @@ git 有一个特点就是，每个版本只保留,上个版本变动的文件，
     unmodified-未改变的
     modified-改变的/修改，新增，删除，冲突
     staged-处于暂缓处区域的执行git add命令后进入staged状态,等待commit 到本地仓库。
- 
+
 2.  git clone url name
     clone创建工程
 
@@ -115,3 +115,7 @@ git 有一个特点就是，每个版本只保留,上个版本变动的文件，
     git tag -d v0.2 删除标签
     git push origin --tag 将所有标签同步到远端服务器。
     git push origin:refs/tags/v0.2 删除远端标签
+
+9. 查看当前库数据
+    git remote
+    git remote show origin
